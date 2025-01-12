@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
      alt="Coding" 
      width="400" 
-     style="display: block; margin: 20px auto; padding: 10px; border-radius: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+   style="display: block; margin-left: auto; margin-right: auto; padding: 10px; border-radius: 50% 20% / 10% 40%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kantocanto&label=Profile%20views&color=b46922&style=flat" alt="kantocanto" /> </p>
 
