@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantocanto&show_icons=true&locale=en&layout=compact" alt="kantocanto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantocanto&show_icons=true&theme=merko&locale=en" alt="kantocanto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantocanto&" alt="kantocanto" /></p>
